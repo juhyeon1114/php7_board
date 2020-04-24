@@ -1,0 +1,48 @@
+[8] Undefined variable: callback in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 95
+[8] Undefined offset: 1 in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 95
+[2] require_once(C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_boardapp/controllers/.php): failed to open stream: No such file or directory in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 96
+[8] Undefined variable: callback in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 95
+[8] Undefined offset: 1 in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 95
+[2] require_once(C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_boardapp/controllers/.php): failed to open stream: No such file or directory in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 96
+[8] Undefined variable: callback in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 95
+[8] Undefined offset: 1 in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 95
+[2] require_once(C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_boardapp/controllers/.php): failed to open stream: No such file or directory in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 96
+[2] require_once(C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_boardapp/controllers/index.php): failed to open stream: No such file or directory in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 96
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 61
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 68
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 61
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 68
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 61
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 68
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 61
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 68
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 49
+[2] mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 61
+[2] mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 68
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[2] array_map(): Expected parameter 2 to be an array, bool given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\functions.php on line 135
+[8] Undefined index: DB_CONNECION in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[2] mysqli_prepare() expects parameter 1 to be mysqli, null given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 50
+[8] Undefined variable: email in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 18
+[8] Undefined variable: password in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 19
+[8] Undefined variable: email in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 18
+[8] Undefined variable: password in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 19
+[2] Only arrays and Traversables can be unpacked in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 9
