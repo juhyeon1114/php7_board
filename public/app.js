@@ -3,7 +3,7 @@ const $editor = document.getElementById('editor');
 if ($editor instanceof HTMLElement) {
     BalloonEditor.create($editor, {
         ckfinder: {
-            uploadUrl: '/image/upload.php'
+            uploadUrl: '/image'
         }
     }).then(editor => {
         editor.editing.view.focus();

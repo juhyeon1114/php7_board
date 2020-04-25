@@ -1,13 +1,8 @@
 <?php
 
-$is = quard([
+return quard([
     '/user/update',
     '/post/wirte',
     '/post/delete',
     '/post/update'
-]);
-
-if ($is) {
-    return guard(['/image']) ?: reject(400);
-}
-return redirect('/auth/login');
+]) ?: redirect('/auth/login');

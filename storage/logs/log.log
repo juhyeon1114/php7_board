@@ -66,3 +66,4 @@
 [8] Undefined variable: id in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\post.php on line 28
 [8] Undefined index: NULL in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 58
 [2] mysqli_stmt_bind_param(): Invalid type or no types specified in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 60
+[8] Undefined variable: pathParts in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\services\image.php on line 4
