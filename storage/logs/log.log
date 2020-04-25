@@ -46,3 +46,23 @@
 [8] Undefined variable: email in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 18
 [8] Undefined variable: password in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 19
 [2] Only arrays and Traversables can be unpacked in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\user.php on line 9
+[2] filter_input_array() expects parameter 1 to be int, array given in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\post.php on line 12
+[2] require_once(C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views/read.php): failed to open stream: No such file or directory in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\layouts\app.php on line 30
+[2] require_once(C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views/read.php): failed to open stream: No such file or directory in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\layouts\app.php on line 30
+[8] Undefined variable: createdAt in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\read.php on line 5
+[8] Undefined variable: 3 in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\read.php on line 6
+[8] Undefined index: NULL in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 58
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 60
+[8] Undefined variable: createdAt in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\read.php on line 5
+[8] Undefined variable: 3 in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\read.php on line 6
+[8] Undefined index: NULL in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 58
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 60
+[8] Undefined variable: 3 in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\read.php on line 6
+[8] Undefined index: NULL in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 58
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 60
+[8] Undefined variable: 3 in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\resources\views\read.php on line 6
+[8] Undefined index: NULL in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 58
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 60
+[8] Undefined variable: id in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\controllers\post.php on line 28
+[8] Undefined index: NULL in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 58
+[2] mysqli_stmt_bind_param(): Invalid type or no types specified in C:\Bitnami\wampstack-7.3.7-0\apache2\htdocs\php7_board\app\lib\database.php on line 60
